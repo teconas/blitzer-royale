@@ -1,4 +1,8 @@
-# Datenschutzerklärung
+---
+layout: default
+title: Datenschutzerklärung – Blitzer Royale
+---
+# Datenschutzerklärung – Blitzer Royale
 
 ## Name der App  
 **Blitzer Royale** / **Blitzer Royal**
